@@ -3,7 +3,7 @@
 <p>Currently studying <strong>Systems Analysis and Development</strong> at <a href="https://login.unisuam.edu.br/login"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://ascoferj.com.br/wp-content/uploads/2017/08/9.png"></a>
 </p>
  <div>
-   <a href="https://github.com/AlessandraDell">
+   <a href="https://github.com/AleStudent25">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandradell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesargarciajr&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
