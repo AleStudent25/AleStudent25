@@ -1,6 +1,6 @@
 <h2>Welcome to my Profile  </h2>
 
-<p>Currently studying <strong>Systems Analysis and Development</strong> at <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://ascoferj.com.br/wp-content/uploads/2017/08/9.png"></a>
+<p>Currently studying <strong>Systems Analysis and Development</strong> at <a href="https://login.unisuam.edu.br/login"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://ascoferj.com.br/wp-content/uploads/2017/08/9.png"></a>
 </p>
  <div>
    <a href="https://github.com/AlessandraDell">
