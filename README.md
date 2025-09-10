@@ -38,8 +38,8 @@
  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/animation/2024/02/01/17/15/17-15-13-749_512.gif=0">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/animation/2024/02/01/17/15/17-15-13-749_512.gif=0">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/animation/2024/02/01/17/15/17-15-13-749_512.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/animation/2024/02/01/17/15/17-15-13-749_512.gif">
  <img alt="github contribution grid snake animation" src="https://cdn.pixabay.com/animation/2024/02/01/17/15/17-15-13-749_512.gif">
 
 </picture>
