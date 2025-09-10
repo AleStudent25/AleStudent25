@@ -39,7 +39,6 @@
 </picture>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/animation/2024/02/01/17/15/17-15-13-749_512.gif=0">
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/animation/2024/02/01/17/15/17-15-13-749_512.gif">
 
 </picture>
 
