@@ -16,7 +16,7 @@
          
   <img align="center" alt="Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
          
-  <img align="center" alt="Codepen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
+  <img align="center" alt="Codepen" height="30" width="40" src="https://spiralking.com/wp-content/uploads/2019/04/code4.png" />
           
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
