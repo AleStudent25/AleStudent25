@@ -2,11 +2,7 @@
 
 <p>Currently studying <strong>Systems Analysis and Development</strong>  <a href="https://login.unisuam.edu.br/login"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://ascoferj.com.br/wp-content/uploads/2017/08/9.png"></a>
 </p>
- <div>
-   <a href="https://github.com/AleStudent25">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesargarciajr&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
