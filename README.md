@@ -1,6 +1,6 @@
 <h2>Welcome to my Profile  </h2>
 
-<p>Currently studying <strong>Systems Analysis and Development</strong>  <a href=""><img align="center" alt="CodeInstitute" height="80" width="80" src=""></a>
+<p>Currently studying <strong>Systems Analysis and Development</strong>  <a href=""><img align="center" alt="" height="80" width="80" src=""></a>
 </p>
 
     
